@@ -18,8 +18,11 @@ video_dir -- 1.mkv
                     - abc.html
                     - def.txt
 ```
+
 run
+```
 ./mv_video.sh video_dir
+```
 
 **after**
 ```
